@@ -1,5 +1,7 @@
 # README HERE!
 
+To run the app go to: https://wayne-wenhe.shinyapps.io/Project_Cousera
+
 This readme file can help you go thru my shiny app.
 
 The app is used to find out what kind of iris you have. A machine learning algorithm is embedded in the server using boosting.
